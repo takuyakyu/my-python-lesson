@@ -8,7 +8,7 @@ def count_occurrences(nums, target):
 # 以下のリストから目標値 7 の出現回数を数える例
 # 以下のリストから目標値appleの出現回数を数える例
 numbers = [7, 2, 7, 8, 7, 1, 5, 7]
-words = ["apple", "banana", "apple", "Mos", "Macbook", "apple"]
+words = ["apple", "peach", "apple", "Mos", "Mac", "apple"]
 target_value = 2
 target_word = "apple"
 count_value = count_occurrences(numbers, target_value)
